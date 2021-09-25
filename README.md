@@ -20,9 +20,7 @@ I am a student studying computer science.<br>
 
  ## 🔭 I’m currently working on ...
  - AI study on Deep Learning(CNN, DNN, RNN) with PyTorch
- - AI Project
- - Intramural Computer Science academy conference PnP society operation (www.hufspnp.com)
- - HUFS Volunteering Planning Manager
+ - AI Project 
  
 ## 🔥 Experience
 - Core Member of AI Project TEAM intramural Computer Science academy conference PnP [21.03~21.09]
