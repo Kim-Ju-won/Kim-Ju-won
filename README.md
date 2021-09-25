@@ -87,4 +87,3 @@ I am a student studying computer science.<br>
   </td>
  </tr>
 </table>  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-Ju-won&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
