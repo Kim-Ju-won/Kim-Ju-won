@@ -87,5 +87,3 @@ I am a student studying computer science.<br>
   </td>
  </tr>
 </table>  
-
-<p align="center"><img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=Kim-Ju-won"></p>
