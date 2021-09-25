@@ -11,7 +11,6 @@ I am a student studying computer science.<br>
 <a href="mailto:kjwt1124@hufs.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/uomnf97/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/juwonjuho/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/tjddlf101-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=white"/><br>
 <a href="www.linkedin.com/in/김주원" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
 <a href="https://velog.io/@uonmf97" target="_blank"><img src="https://img.shields.io/badge/Blog-F56C2D?style=flat-square&logo=Opsgenie&logoColor=white"/></a>
 <a href="https://velog.io/@uomnf97_web" target="_blank"><img src="https://img.shields.io/badge/Blog-F56C2D?style=flat-square&logo=Opsgenie&logoColor=white"/></a>
