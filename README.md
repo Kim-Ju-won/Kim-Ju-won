@@ -84,6 +84,7 @@ I am a student studying computer science.<br>
   </td>
   <td valign="top" width="50%">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-Ju-won&hide_border=true&layout=compact" width="400">
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-Ju-won&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   </td>
  </tr>
 </table>  
