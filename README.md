@@ -22,10 +22,9 @@ I am a student studying computer science.<br>
  - AI Project 
  
 ## 🔥 Experience
-- Core Member of AI Project TEAM intramural Computer Science academy conference PnP [21.03~21.09]
-- Leader of AI Project TEAM intramural Computer Science academy conference PnP [21.03~21.09]
 - 2021 HUFS Software Volunteering Planning Manager of AI Research Academy of Hankuk University of Foreign Studies [21.03~]
 - Head team of intramural Computer Science academy conference PnP [21.06~]
+- Leader of AI Project TEAM intramural Computer Science academy conference PnP [21.09~ ]
 - Leader of AI STUDY TEAM intramural Computer Science academy conference PnP [21.03~21.09]
 - Python Programming Education Manager called "HUFS! START-UP! PYTHON" [21.06~21.08]
 - Python Programming Education Lecturer called "HUFS! START-UP! PYTHON" [21.06~21.08]
