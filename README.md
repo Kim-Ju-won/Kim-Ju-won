@@ -78,7 +78,7 @@ I am a student studying computer science.<br>
 <table width="100%">
  <tr>
   <td valign="top" width="50%">
-   <img src="https://github-readme-stats.vercel.app/api?username=Kim-Ju-won&hide_border=true" width="400">
+   <img src="https://github-readme-stats.vercel.app/api?username=Kim-Ju-won&hide_border=true?theme=github_dark" width="400">
   </td>
   <td valign="top" width="50%">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-Ju-won&hide_border=true&layout=compact" width="400">
