@@ -32,7 +32,8 @@ I am a student studying computer science.<br>
 - 2018 the World Embbeded Software Contest final in COEX [18.06~ 19.12] 
 
 ## 🏆 Awards
-- HUFS TOPCIT TOP 10% Scorer in 2021 Summer
+- HUFS 15TH TOPCIT TOP 10% Scorer in 2021 Summer
+- HUFS 16TH TOPCIT TOP 10% Scorer in 2021 Winter
 
 ## 🛠 Skills
 <center>
