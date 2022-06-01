@@ -39,7 +39,7 @@ I am a student studying computer science.<br>
 ## 🛠 Skills
 <center>
  <table width="100%">
- <tr width="100%">
+ 
   <td valign="top" width="50%">
     <h3>Language</h3>
     <ul>
@@ -73,7 +73,7 @@ I am a student studying computer science.<br>
      <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/><br>
     </p>
     <img src="https://blog.kakaocdn.net/dn/dAEQye/btqDOkONLE0/5TK0HtrButojrSUVadJRP0/img.jpg" height="1" width="400">
-  </td></tr></table>
+  </td></table>
 <center>  
  
 ## 😁 Github Stats  
