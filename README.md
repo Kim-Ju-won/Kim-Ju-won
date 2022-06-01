@@ -18,10 +18,11 @@ I am a student studying computer science.<br>
 
 
  ## 🔭 I’m currently working on ...
- - AI study on Deep Learning(CNN, DNN, RNN) with PyTorch
- - AI Project 
+ - Project Leader of Capstone Project in Hankuk University of Foreign Studies
+ - Data Scientist of Capstone Project in Hankuk University of Foreign Studies
  
 ## 🔥 Experience
+- Leader of Capstone Project in Hankuk Foreign Language Studies[22.03 ~ ]
 - Leader of AI Project TEAM intramural Computer Science academy conference PnP [21.09~ 22.02]
 - Head team of intramural Computer Science academy conference PnP [21.06~21.12]
 - Leader of AI STUDY TEAM intramural Computer Science academy conference PnP [21.03~21.09]
