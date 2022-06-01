@@ -40,7 +40,7 @@ I am a student studying computer science.<br>
 <center>
  <table width="100%">
  
-  <td valign="top" width="100%">
+  <td valign="top" width=600>
     <h3>Language</h3>
     <ul>
      <li>Advanced</li>
@@ -63,7 +63,7 @@ I am a student studying computer science.<br>
     </ul>
     
   </td>
-  <td valign="top" width="100%">
+  <td valign="top" width=600>
     <h3>Stack</h3>
     <p>
      <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/>
