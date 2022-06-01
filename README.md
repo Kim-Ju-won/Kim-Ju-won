@@ -61,7 +61,7 @@ I am a student studying computer science.<br>
         <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
       </p>
     </ul>
-    <img src="https://blog.kakaocdn.net/dn/dAEQye/btqDOkONLE0/5TK0HtrButojrSUVadJRP0/img.jpg" height="1" width="400">
+    
   </td>
   <td valign="top" width="50%">
     <h3>Stack</h3>
@@ -72,7 +72,7 @@ I am a student studying computer science.<br>
      <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=RaspberryPi&logoColor=white"/>
      <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/><br>
     </p>
-    <img src="https://blog.kakaocdn.net/dn/dAEQye/btqDOkONLE0/5TK0HtrButojrSUVadJRP0/img.jpg" height="1" width="400">
+    
   </td></table>
 <center>  
  
