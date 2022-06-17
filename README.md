@@ -17,12 +17,12 @@ I am a student studying computer science.<br>
 <a href="https://www.youtube.com/channel/UCP9N5hY3Nsf0mh5K1awtwfg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white"/></a>
 
 
- ## 🔭 I’m currently working on ...
- - Project Leader of Capstone Project in Hankuk University of Foreign Studies
- - Data Scientist of Capstone Project in Hankuk University of Foreign Studies
+## 🔭 I’m currently working on ...
+- Google AI Booc Camp 2022 ( 2022.06 ~ ) 
  
 ## 🔥 Experience
-- Leader of Capstone Project in Hankuk Foreign Language Studies[22.03 ~ ]
+- Project Leader of Capstone Project in Hankuk University of Foreign Studies [22.03 ~ 22.06]
+- Data Scientist of Capstone Project in Hankuk University of Foreign Studies [22.03 ~ 22.06]
 - Leader of AI Project TEAM intramural Computer Science academy conference PnP [21.09~ 22.02]
 - Head team of intramural Computer Science academy conference PnP [21.06~21.12]
 - Leader of AI STUDY TEAM intramural Computer Science academy conference PnP [21.03~21.09]
@@ -35,6 +35,7 @@ I am a student studying computer science.<br>
 ## 🏆 Awards
 - 15TH TOPCIT TOP 10% Scorer in HUFS 2021 Summer
 - 16TH TOPCIT TOP 10% Scorer in HUFS 2021 Winter
+- 2022 Capstone Design in Hankuk University of Foreign Studies 1st Place (31 teams)
 
 ## 🛠 Skills
 <center>
