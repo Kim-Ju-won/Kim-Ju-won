@@ -18,7 +18,7 @@ I am a student studying computer science.<br>
 
 
 ## 🔭 I’m currently working on ...
-- Google AI Booc Camp 2022 ( 2022.06 ~ ) 
+- Google AI Boot Camp 2022 ( 2022.06 ~ ) 
  
 ## 🔥 Experience
 - Project Leader of Capstone Project in Hankuk University of Foreign Studies [22.03 ~ 22.06]
