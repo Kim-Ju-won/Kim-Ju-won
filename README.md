@@ -14,11 +14,10 @@ I am a student studying computer science.<br>
 <a href="https://www.linkedin.com/in/%EA%B9%80%EC%A3%BC%EC%9B%90/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
 <a href="https://velog.io/@uonmf97" target="_blank"><img src="https://img.shields.io/badge/Tech Blog-11B48A?style=flat-square&logo=vimeo&logoColor=white"/></a>
 <a href="https://velog.io/@uomnf97_web" target="_blank"><img src="https://img.shields.io/badge/Tech Blog-11B48A?style=flat-square&logo=vimeo&logoColor=white"/></a>
-<a href="https://www.youtube.com/channel/UCP9N5hY3Nsf0mh5K1awtwfg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white"/></a>
-
 
 ## 🔭 I’m currently working on ...
 - Google AI Boot Camp 2022 ( 2022.06 ~ ) 
+- HUFS Data Scientis HUFStudy (2022.06~ )
  
 ## 🔥 Experience
 - Project Leader of Capstone Project in Hankuk University of Foreign Studies [22.03 ~ 22.06]
