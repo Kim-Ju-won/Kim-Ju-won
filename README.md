@@ -35,6 +35,7 @@ I am a student studying computer science.<br>
 - 15TH TOPCIT TOP 10% Scorer in HUFS 2021 Summer
 - 16TH TOPCIT TOP 10% Scorer in HUFS 2021 Winter
 - 2022 Capstone Design in Hankuk University of Foreign Studies 1st Place (31 teams)
+- Best Paper in 9th International Conference on Advanced Engineering and ICT-Convergence (ICAEIC-2022)
 
 ## 🛠 Skills
 <center>
