@@ -16,10 +16,11 @@ I am a student studying computer science.<br>
 <a href="https://velog.io/@uomnf97_web" target="_blank"><img src="https://img.shields.io/badge/Tech Blog-11B48A?style=flat-square&logo=vimeo&logoColor=white"/></a>
 
 ## 🔭 I’m currently working on ...
-- Google AI Boot Camp 2022 ( 2022.06 ~ ) 
-- HUFS Data Scientis HUFStudy (2022.06~ )
+- Studying Cousera(Tensorflow,NLP) 
  
 ## 🔥 Experience
+- Google AI Boot Camp 2022 ( 2022.06 ~ 2022.09) 
+- HUFS Data Scientis HUFStudy Leader (2022.06 ~ 2022.08)
 - Project Leader of Capstone Project in Hankuk University of Foreign Studies [22.03 ~ 22.06]
 - Data Scientist of Capstone Project in Hankuk University of Foreign Studies [22.03 ~ 22.06]
 - Leader of AI Project TEAM intramural Computer Science academy conference PnP [21.09~ 22.02]
@@ -32,10 +33,13 @@ I am a student studying computer science.<br>
 - 2018 the World Embbeded Software Contest final in COEX [18.06~ 19.12]
 
 ## 🏆 Awards
-- 15TH TOPCIT TOP 10% Scorer in HUFS 2021 Summer
-- 16TH TOPCIT TOP 10% Scorer in HUFS 2021 Winter
-- 2022 Capstone Design in Hankuk University of Foreign Studies 1st Place (31 teams)
 - Best Paper in 9th International Conference on Advanced Engineering and ICT-Convergence (ICAEIC-2022)
+- 2022 Capstone Design in Hankuk University of Foreign Studies 1st Place (31 teams)
+- 16TH TOPCIT TOP 10% Scorer in HUFS 2021 Winter
+- 15TH TOPCIT TOP 10% Scorer in HUFS 2021 Summer
+
+## 🪪 Certificate
+- Google Cloud Professional Machine Learning Certificate ( 2022.09.22 - 2024.09.22 )  
 
 ## 🛠 Skills
 <center>
