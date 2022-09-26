@@ -39,7 +39,7 @@ I am a student studying computer science.<br>
 - 15TH TOPCIT TOP 10% Scorer in HUFS 2021 Summer
 
 ## 🪪 Certificate
-- Google Cloud Professional Machine Learning Certificate ( 2022.09.22 - 2024.09.22 )  
+- Google Cloud Professional Machine Learning Certificate ( 2022.09.21 - 2024.09.21 )  
 
 ## 🛠 Skills
 <center>
