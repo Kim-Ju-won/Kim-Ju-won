@@ -33,6 +33,7 @@ I am a student studying computer science.<br>
 - 2018 the World Embbeded Software Contest final in COEX [18.06~ 19.12]
 
 ## 🏆 Awards
+- 2022 HUFStudy Excellence Prize
 - Best Paper in 9th International Conference on Advanced Engineering and ICT-Convergence (ICAEIC-2022)
 - 2022 Capstone Design in Hankuk University of Foreign Studies 1st Place (31 teams)
 - 16TH TOPCIT TOP 10% Scorer in HUFS 2021 Winter
