@@ -20,10 +20,11 @@ I am a student studying computer science.<br>
  
 ## 🔥 Experience
 - Google AI Boot Camp 2022 [2022.06 ~ 2022.09] 
-- HUFS Data Scientis HUFStudy Leader [2022.06 ~ 2022.08]
+- HUFS Data Scientist HUFStudy Leader [2022.06 ~ 2022.08]
 - Project Leader of Capstone Project in Hankuk University of Foreign Studies [22.03 ~ 22.06]
 - Data Scientist of Capstone Project in Hankuk University of Foreign Studies [22.03 ~ 22.06]
 - Leader of AI Project TEAM intramural Computer Science Student's Academy conference(PnP) [21.09~ 22.02]
+- Developed PnP coference Website(https://www.hufspnp.com) [21.08~22.02]
 - Head team of intramural Computer Science Student's Academy conference(PnP) [21.06~21.12]
 - Leader of AI STUDY TEAM intramural Computer Science Student's Academy conference(PnP) [21.03~21.09]
 - Python Programming Education Manager called "HUFS! START-UP! PYTHON" [21.06~21.08]
