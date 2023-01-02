@@ -95,4 +95,8 @@ I am a student studying computer science.<br>
  </tr>
 </table>  
  
-<p align="center"><align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kjwt1124" href = "https://solved.ac/kjwt1124"></p>
+<p align="center">
+   <a href = "https://solved.ac/kjwt1124">
+   <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kjwt1124">
+   </a>
+ </p>
