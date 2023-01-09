@@ -84,7 +84,7 @@ I am a student studying computer science.<br>
       </p>
      <li>Intermediate</li>
       <p>
-       <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/><br>
+       <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/>
        <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"/>
        <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"/>
        <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/>
