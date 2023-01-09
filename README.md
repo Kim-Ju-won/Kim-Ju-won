@@ -49,8 +49,8 @@ I am a student studying computer science.<br>
 <center>
  <table width="100%">
  
-  <td valign="top"0>
-    <h3>Language & Stack</h3>
+  <td valign="top" width=600>
+    <h3>Language</h3>
     <ul>
      <li>Advanced</li>
       <p>
