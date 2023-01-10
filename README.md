@@ -89,7 +89,7 @@ I am a student studying computer science.<br>
        <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"/>
        <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/>
        <img src="https://img.shields.io/badge/mysql-%2300f?style=flat-square&logo=mysql&logoColor=white"/>
-       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/><br>
+       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
        <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=RaspberryPi&logoColor=white"/>
     </p>
   </td></table>
