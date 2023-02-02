@@ -107,5 +107,6 @@ I am a student studying computer science.<br>
  </tr>
 </table>  
 
+ ## 😁 BOJ Rank
 [![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=kjwt1124)](https://solved.ac/kjwt1124)
 [![mazandi profile](http://mazandi.herokuapp.com/api?handle=kjwt1124&theme=dark)](https://solved.ac/kjwt1124)
