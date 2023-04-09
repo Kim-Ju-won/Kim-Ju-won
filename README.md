@@ -5,7 +5,7 @@ Hi there! Welcome to my Github!<br>
 I am a student studying computer science.<br>
 
 ## 🎓 Education
-- Hankuk University of Foreign Studies,Computer and Electronic Systems Engineering, 4th Grade
+- Hankuk University of Foreign Studies,Computer and Electronic Systems Engineering Graduate
 
 ## 📫 How to reach me
 <a href="mailto:kjwt1124@hufs.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
