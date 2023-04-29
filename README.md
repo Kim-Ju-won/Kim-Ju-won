@@ -16,7 +16,7 @@ I am a student studying computer science.<br>
 <a href="https://velog.io/@uomnf97_web" target="_blank"><img src="https://img.shields.io/badge/Tech Blog-11B48A?style=flat-square&logo=vimeo&logoColor=white"/></a>
 
 ## 🔭 I’m currently working on ...
-- Studying Cousera(Tensorflow,NLP) 
+- Studying in Boostcamp 5th NLP Track
  
 ## 🔥 Experience
 - Google AI Boot Camp 2022 [2022.06 ~ 2022.09] 
