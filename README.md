@@ -19,6 +19,7 @@ I am a student studying computer science.<br>
 - Studying in Boostcamp AI-Tech 5th NLP Track
  
 ## 🔥 Experience
+- Boostcamp AI-Tech 5th NLP Track [2023.03 ~2023.08]
 - Google AI Boot Camp 2022 [2022.06 ~ 2022.09] 
 - HUFS Data Scientist HUFStudy Leader [2022.06 ~ 2022.08]
 - Project Leader of Capstone Project in Hankuk University of Foreign Studies [22.03 ~ 22.06]
