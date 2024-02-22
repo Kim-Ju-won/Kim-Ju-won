@@ -12,8 +12,8 @@ I am a student studying computer science.<br>
 <a href="https://www.instagram.com/uomnf97/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/juwonjuho/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/%EA%B9%80%EC%A3%BC%EC%9B%90/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
-<a href="https://velog.io/@uonmf97" target="_blank"><img src="https://img.shields.io/badge/Tech Blog-11B48A?style=flat-square&logo=vimeo&logoColor=white"/></a>
-<a href="https://velog.io/@uomnf97_web" target="_blank"><img src="https://img.shields.io/badge/Tech Blog-11B48A?style=flat-square&logo=vimeo&logoColor=white"/></a>
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name={Blog})](https://uomnf97.tistory.com/)
+
 
 ## 🔭 I’m currently working on ...
 - Studying in Boostcamp AI-Tech 5th NLP Track
