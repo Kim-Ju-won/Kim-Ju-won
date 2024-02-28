@@ -16,7 +16,7 @@ I am a student studying computer science.<br>
 
 
 ## 🔭 I’m currently working on ...
-- Studying in Boostcamp AI-Tech 5th NLP Track
+- Boostcourse AI Coach (Free-lancer)
  
 ## 🔥 Experience
 - Boostcamp AI-Tech 5th NLP Track [2023.03 ~2023.08]
