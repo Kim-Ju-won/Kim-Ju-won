@@ -2,7 +2,6 @@
 
 # Kim Juwon
 Hi there! Welcome to my Github!<br>
-I am a student studying computer science.<br>
 
 ## 🎓 Education
 - Hankuk University of Foreign Studies,Computer and Electronic Systems Engineering Graduate
