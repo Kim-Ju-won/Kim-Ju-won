@@ -22,17 +22,14 @@ I am a student studying computer science.<br>
 - Boostcamp AI-Tech 5th NLP Track [2023.03 ~2023.08]
 - Google AI Boot Camp 2022 [2022.06 ~ 2022.09] 
 - HUFS Data Scientist HUFStudy Leader [2022.06 ~ 2022.08]
-- Project Leader of Capstone Project in Hankuk University of Foreign Studies [22.03 ~ 22.06]
-- Data Scientist of Capstone Project in Hankuk University of Foreign Studies [22.03 ~ 22.06]
+- Project Leader, Data Scientist of Capstone Project in Hankuk University of Foreign Studies [22.03 ~ 22.06]
 - Leader of AI Project TEAM intramural Computer Science Student's Academy conference(PnP) [21.09~ 22.02]
-- Developed PnP coference Website(https://www.hufspnp.com) [21.08~22.02]
+- Developed PnP coference Website(https://hufs-pnp.github.io/) [21.08~22.02]
 - Head team of intramural Computer Science Student's Academy conference(PnP) [21.06~21.12]
 - Leader of AI STUDY TEAM intramural Computer Science Student's Academy conference(PnP) [21.03~21.09]
-- Python Programming Education Manager called "HUFS! START-UP! PYTHON" [21.06~21.08]
-- Python Programming Education Lecturer called "HUFS! START-UP! PYTHON" [21.06~21.08]
+- Python Programming Education Manager/Lecturer called "HUFS! START-UP! PYTHON" [21.06~21.08]
 - 2021 HUFS Software Volunteering Planning Manager of AI Research Academy of Hankuk University of Foreign Studies [21.03~21.12]
-- PNP Embbeded Computer Programming Team Leader [18.06~ 18.12]
-- 2018 the World Embbeded Software Contest final in COEX [18.06~ 18.12]
+- 2018 the World Embbeded Software Contest final in COEX (Team leader) [18.06~ 18.12]
 
 ## 🏆 Awards
 - 2022 HUFStudy Excellence Prize
