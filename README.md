@@ -18,9 +18,10 @@ Hi there! Welcome to my Github!<br>
 - Boostcourse AI Coach (Free-lancer)
  
 ## 🔥 Experience
+- Bosstcourse AI Coach [2024.01 - 2024.02 / 2024.04 - 2024.06] 
 - Boostcamp AI-Tech 5th NLP Track [2023.03 ~2023.08]
 - Google AI Boot Camp 2022 [2022.06 ~ 2022.09] 
-- HUFS Data Scientist HUFStudy Leader [2022.06 ~ 2022.08]
+- HUFStudy Leader [2022.06 ~ 2022.08]
 - Project Leader, Data Scientist of Capstone Project in Hankuk University of Foreign Studies [22.03 ~ 22.06]
 - Leader of AI Project TEAM intramural Computer Science Student's Academy conference(PnP) [21.09~ 22.02]
 - Developed PnP coference Website(https://hufs-pnp.github.io/) [21.08~22.02]
