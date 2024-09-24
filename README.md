@@ -18,7 +18,7 @@ Hi there! Welcome to my Github!<br>
 - Boostcourse AI Coach (Free-lancer)
  
 ## 🔥 Experience
-- Bosstcourse AI Coach [2024.01 - 2024.02 / 2024.04 - 2024.06] 
+- Boostcourse AI Coach [2024.01 - 2024.02 / 2024.04 - 2024.06] 
 - Boostcamp AI-Tech 5th NLP Track [2023.03 ~2023.08]
 - Google AI Boot Camp 2022 [2022.06 ~ 2022.09] 
 - HUFStudy Leader [2022.06 ~ 2022.08]
