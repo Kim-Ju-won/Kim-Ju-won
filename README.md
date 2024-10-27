@@ -4,7 +4,7 @@
 Hi there! Welcome to my Github!<br>
 
 ## 🎓 Education
-- Hankuk University of Foreign Studies,Computer and Electronic Systems Engineering Graduate
+- Bachelor’s Degree in Computer and Electronic Systems Engineering, Hankuk University of Foreign Studies
 
 ## 📫 How to reach me
 <a href="mailto:kjwt1124@hufs.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
