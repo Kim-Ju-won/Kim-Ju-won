@@ -9,7 +9,6 @@ Hi there! Welcome to my Github!<br>
 ## 📫 How to reach me
 <a href="mailto:kjwt1124@hufs.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/uomnf97/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/juwonjuho/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/%EA%B9%80%EC%A3%BC%EC%9B%90/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
 <a href="https://uomnf97.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-ff822c?style=flat-square&logo=Tistory&logoColor=white"/></a>
 
