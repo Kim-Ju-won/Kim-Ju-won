@@ -39,7 +39,10 @@ Hi there! Welcome to my Github!<br>
 - 15TH TOPCIT TOP 10% Scorer in HUFS 2021 Summer
 
 ## 🪪 Certificate
+- SQL Developer (2025.04.04 ~ 2027.04.04)
+- Advanced Data Analytics Semi-Professional (2025.03.21 ~ )
 - Google Cloud Professional Machine Learning Certificate ( 2022.09.21 - 2024.09.21 )  
+
 
 ## 🛠 Skills
 - Advanced : Projects Level
