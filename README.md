@@ -34,7 +34,7 @@ Hi there! Welcome to my Github!<br>
 ## 🏆 Awards
 - 2022 HUFStudy Excellence Prize
 - Best Paper in 9th International Conference on Advanced Engineering and ICT-Convergence (ICAEIC-2022)
-- 2022 Capstone Design in Hankuk University of Foreign Studies 1st Place (31 teams)
+- 2022 Capstone Design in Hankuk University of Foreign Studies 1st Place (32 teams)
 - 16TH TOPCIT TOP 10% Scorer in HUFS 2021 Winter
 - 15TH TOPCIT TOP 10% Scorer in HUFS 2021 Summer
 
