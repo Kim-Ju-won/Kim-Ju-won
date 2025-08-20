@@ -18,6 +18,7 @@
 <a href="https://uomnf97.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-ff822c?style=flat-square&logo=Tistory&logoColor=white"/></a>
 
 ## 🔥 경력
+- [한국 Hugging Face KREW 멤버](https://hugging-face-krew.github.io/) [2025.03 ~ ]
 - 부스트코스 AI 코치 [2024.01 - 2024.02 / 2024.04 - 2024.06]  
 - 부스트캠프 AI-Tech 5기 NLP 트랙 [2023.03 ~ 2023.08]  
 - Google AI 부트캠프 2022 [2022.06 ~ 2022.09]  
