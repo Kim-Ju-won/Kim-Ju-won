@@ -19,6 +19,7 @@ Hi there! Welcome to my Github!<br>
 
  
 ## 🔥 Experience
+- [Hugging Face KREW](https://hugging-face-krew.github.io/) [2025.03 ~ ]
 - Boostcourse AI Coach [2024.01 - 2024.02 / 2024.04 - 2024.06] 
 - Boostcamp AI-Tech 5th NLP Track [2023.03 ~2023.08]
 - Google AI Boot Camp 2022 [2022.06 ~ 2022.09] 
