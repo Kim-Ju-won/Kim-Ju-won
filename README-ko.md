@@ -1,63 +1,64 @@
 <h4 align="center">
     <p>
-        <a href="README.md">🇺🇸 English</a> |
-        <b>🇰🇷 한국어</b> |
+        <b>🇺🇸 English</b> |
+        <a href="README-ko.md">🇰🇷 한국어</a> |
         <a href="README-ja.md">🇯🇵 日本語</a> 
     </p>
 </h4>
 
 # Kim Juwon
-안녕하세요! 제 GitHub 프로필에 오신 것을 환영합니다!<br>
+Hi there! Welcome to my Github!<br>
 
-## 🎓 학력
-- 한국외국어대학교 컴퓨터·전자시스템공학 학사
+## 🎓 Education
+- Bachelor’s Degree in Computer and Electronic Systems Engineering, Hankuk University of Foreign Studies
 
-## 📫 연락처
+## 📫 How to reach me
 <a href="mailto:kjwt1124@hufs.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/%EA%B9%80%EC%A3%BC%EC%9B%90/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
 <a href="https://uomnf97.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-ff822c?style=flat-square&logo=Tistory&logoColor=white"/></a>
 
-## 🔥 경력
-- [한국 Hugging Face KREW 멤버](https://hugging-face-krew.github.io/) [2025.03 ~ ]
-- 부스트코스 AI 코치 [2024.01 - 2024.02 / 2024.04 - 2024.06]  
-- 부스트캠프 AI-Tech 5기 NLP 트랙 [2023.03 ~ 2023.08]  
-- Google AI 부트캠프 2022 [2022.06 ~ 2022.09]  
-- HUFStudy 리더 [2022.06 ~ 2022.08]  
-- 한국외대 캡스톤디자인 프로젝트 팀장 및 데이터 과학자 [2022.03 ~ 2022.06]  
-- PnP 학회 웹사이트 개발 (https://hufs-pnp.github.io/) [2021.08 ~ 2022.02]  
-- 컴퓨터공학 학술동아리 학회장(PnP) [2021.06 ~ 2021.12]  
-- 컴퓨터공학 학술동아리 AI 스터디팀 리더(PnP) [2021.03 ~ 2022.02]  
-- Python 교육 매니저/강사 — "HUFS! START-UP! PYTHON" [2021.06 ~ 2021.08]  
-- 한국외국어대학교 AI연구소 2021년 소프트웨어 봉사기획팀장 [2021.03 ~ 2021.12]  
-- 2018 세계 임베디드 소프트웨어 경진대회 결선 진출 (COEX) - 팀장 [2018.06 ~ 2018.12]
+ 
+## 🔥 Experience
+- [Hugging Face KREW](https://hugging-face-krew.github.io/) [2025.03 ~ ]
+- Boostcourse AI Coach [2024.01 - 2024.02 / 2024.04 - 2024.06] 
+- Boostcamp AI-Tech 5th NLP Track [2023.03 ~2023.08]
+- Google AI Boot Camp 2022 [2022.06 ~ 2022.09] 
+- HUFStudy Leader [2022.06 ~ 2022.08]
+- Project Leader, Data Scientist of Capstone Project in Hankuk University of Foreign Studies [22.03 ~ 22.06]
+- Developed PnP coference Website(https://hufs-pnp.github.io/) [21.08~22.02]
+- Head team of intramural Computer Science Student's Academy conference(PnP) [21.06~21.12]
+- Leader of AI STUDY TEAM intramural Computer Science Student's Academy conference(PnP) [21.03~22.02]
+- Python Programming Education Manager/Lecturer called "HUFS! START-UP! PYTHON" [21.06~21.08]
+- 2021 HUFS Software Volunteering Planning Manager of AI Research Academy of Hankuk University of Foreign Studies [21.03~21.12]
+- 2018 the World Embbeded Software Contest final in COEX (Team leader) [18.06~ 18.12]
 
-## 🏆 수상
-- 2022 HUFStudy 우수상  
+## 🏆 Awards
+- 2022 HUFStudy Excellence Prize
 - Best Paper in 9th International Conference on Advanced Engineering and ICT-Convergence (ICAEIC-2022)
-- 2022 한국외대 캡스톤디자인 1등 (총 32팀 중)  
-- 제16회 겨울 TOPCIT 한국외대 TOP 10%  
-- 제15회 여름 TOPCIT 한국외대 TOP 10%
+- 2022 Capstone Design in Hankuk University of Foreign Studies 1st Place (32 teams)
+- 16TH TOPCIT TOP 10% Scorer in HUFS 2021 Winter
+- 15TH TOPCIT TOP 10% Scorer in HUFS 2021 Summer
 
-## 🪪 자격증
-- SQL 개발자 (2025.04.04 ~ 2027.04.04)  
-- 데이터 분석 준전문가 (2025.03.21 ~ )  
-- Google Cloud Professional Machine Learning Certificate (2022.09.21 - 2024.09.21)
+## 🪪 Certificate
+- SQL Developer (2025.04.04 ~ 2027.04.04)
+- Advanced Data Analytics Semi-Professional (2025.03.21 ~ )
+- Google Cloud Professional Machine Learning Certificate ( 2022.09.21 - 2024.09.21 )  
 
-## 기술 스택
-- 상급 : 프로젝트 수준  
-- 중급 : 학부 수준  
 
+## 🛠 Skills
+- Advanced : Projects Level
+- Intermediate : School Level
 <center>
  <table width="100%">
  
   <td valign="top" width=600>
-    <h3>언어</h3>
+    <h3>Language</h3>
     <ul>
-     <li>상급</li>
+     <li>Advanced</li>
       <p>
        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>   
       </p>
-     <li>중급</li>
+     <li>Intermediate</li>
       <p>
         <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> 
         <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
@@ -72,9 +73,9 @@
   </td>
   <td valign="top" width=600>
     
-   <h3>기술 스택</h3>
+   <h3>Stack</h3>
    <ul>
-     <li>상급</li>
+     <li>Advanced</li>
       <p>
        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
@@ -83,7 +84,7 @@
        <img src="https://img.shields.io/badge/scikit--learn-%23F7931?style=flat-square&logo=scikit-learn&logoColor=white"/>
        <img src="https://img.shields.io/badge/numpy-%23013243?style=flat-square&logo=numpy&logoColor=white"/>
       </p>
-     <li>중급</li>
+     <li>Intermediate</li>
       <p>
        <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/>
        <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"/>
@@ -96,7 +97,7 @@
   </td></table>
 <center>  
  
-## 😁 GitHub 통계  
+## 😁 Github Stats  
 <table width="100%">
  <tr>
   <td valign="top" width="50%">
@@ -108,5 +109,5 @@
  </tr>
 </table>  
 
- ## 😁 백준 랭크
+ ## 😁 BOJ Rank
 [![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=kjwt1124)](https://solved.ac/kjwt1124)
