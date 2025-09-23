@@ -7,11 +7,11 @@
     </p>
 </h4>
 
-# OOO
+# 김주원
 안녕하세요! 제 GitHub 프로필에 오신 것을 환영합니다!<br>
 
 ## 🎓 학력
-- OO대학교 컴퓨터·전자시스템공학 학사
+- 한국외국어대학교 컴퓨터·전자시스템공학 학사
 
 ## 📫 연락처
 <a href="mailto:kjwt1124@hufs.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
@@ -19,17 +19,17 @@
 <a href="https://uomnf97.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-ff822c?style=flat-square&logo=Tistory&logoColor=white"/></a>
 
 ## 🔥 경력
-- [한국 Hugging Face KREW 멤버](https://hugging-face-krew.github.io/) [2025.03 ~ ]
+- [Hugging Face KREW 멤버](https://hugging-face-krew.github.io/) [2025.03 ~ ]
 - 부스트코스 AI 코치 [2024.01 - 2024.02 / 2024.04 - 2024.06]  
 - 부스트캠프 AI-Tech 5기 NLP 트랙 [2023.03 ~ 2023.08]  
 - Google AI 부트캠프 2022 [2022.06 ~ 2022.09]  
 - HUFStudy 리더 [2022.06 ~ 2022.08]  
-- OO대학교 캡스톤디자인 프로젝트 팀장 및 데이터 과학자 [2022.03 ~ 2022.06]  
+- 한국외국어대학교 캡스톤디자인 프로젝트 팀장 및 데이터 과학자 [2022.03 ~ 2022.06]  
 - PnP 학회 웹사이트 개발 (https://hufs-pnp.github.io/) [2021.08 ~ 2022.02]  
-- 컴퓨터공학 학술동아리 학회장(PnP) [2021.06 ~ 2021.12]  
-- 컴퓨터공학 학술동아리 AI 스터디팀 리더(PnP) [2021.03 ~ 2022.02]  
+- 한국외국어대학교 컴퓨터공학 학술동아리 학회장(PnP) [2021.06 ~ 2021.12]  
+- 한국외국어대학교 컴퓨터공학 학술동아리 AI 스터디팀 리더(PnP) [2021.03 ~ 2022.02]  
 - Python 교육 매니저/강사 — "HUFS! START-UP! PYTHON" [2021.06 ~ 2021.08]  
-- OO대학교 AI연구소 2021년 소프트웨어 봉사기획팀장 [2021.03 ~ 2021.12]  
+- 한국외국어대학교 AI연구소 2021년 소프트웨어 봉사기획팀장 [2021.03 ~ 2021.12]  
 - 2018 세계 임베디드 소프트웨어 경진대회 결선 진출 (COEX) - 팀장 [2018.06 ~ 2018.12]
 
 ## 🏆 수상
