@@ -35,9 +35,9 @@
 ## 🏆 수상
 - 2022 HUFStudy 우수상  
 - Best Paper in 9th International Conference on Advanced Engineering and ICT-Convergence (ICAEIC-2022)
-- 2022 OO대학교 캡스톤디자인 1등 (총 32팀 중)  
-- 제16회 겨울 TOPCIT OO대학교 TOP 10%  
-- 제15회 여름 TOPCIT OO대학교 TOP 10%
+- 2022 한국외국어대학교 캡스톤디자인 1등 (총 32팀 중)  
+- 제16회 겨울 TOPCIT 한국외국어대학교 TOP 10%  
+- 제15회 여름 TOPCIT 한국외국어대학교 TOP 10%
 
 ## 🪪 자격증
 - SQL 개발자 (2025.04.04 ~ 2027.04.04)  
